@@ -10,6 +10,13 @@
 ## About Laravel
 
 Hanya iseng, belajar laravel 8 dan tailwind.css
+
+*First step:
+- composer install
+- rename .env.example to .env (and configure it)
+- php artisan key:generate
+
+*Note
 - Database: MariaDB / MySQL
 
 ## License
